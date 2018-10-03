@@ -1,0 +1,5689 @@
+{
+ "type":"FeatureCollection",
+ "features": [
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.99375,40.702056 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"Watchtower Bible & Tract Society Of Ny Inc.",
+  "Address":"30 Columbia Heights",
+  "City":"Brooklyn",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.99375,40.702056 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Watchtower Bible & Tract Society Of Ny Inc.",
+  "Address":"30 Columbia Heights",
+  "City":"Brooklyn",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.991333,40.694389 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"195 Motague St. (Bq06257d)",
+  "City":"Brooklyn",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.987917,40.693667 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New York City Of   (Police Department)",
+  "Address":"335 Adams St.",
+  "City":"Brooklyn",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.987361,40.695833 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"300 Jay St. (Bq04582a)",
+  "City":"Brooklyn",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.985028,40.671306 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"380 5th Ave.  (Bk04122b)",
+  "City":"Brooklyn",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.981667,40.655556 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Pastoral Communications",
+  "Address":"19th And Prospect Park West",
+  "City":"Brooklyn",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.977556,40.693861 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"152 North Elliott Walk (Bk04068b)",
+  "City":"Brooklyn",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.976389,40.689167 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Board Of Education Of The City Of New York  DBA =  Wnye Tv Channel 25",
+  "Address":"29 Fort Greene Pl",
+  "City":"Brooklyn",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.972472,40.677611 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"341 Flatbush Ave.  (Bk04121a)",
+  "City":"Brooklyn",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.967194,40.693472 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"459 Myrtle Ave.  (Bk04129a)",
+  "City":"Brooklyn",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.92725,40.623028 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Sba Monarch Towers Ii LLC",
+  "Address":"2001 Utica Ave.",
+  "City":"Brooklyn",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.896222,40.654333 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+  "Address":"303 Stanley Ave.",
+  "City":"Brooklyn",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.894694,40.633639 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Sba Monarch Towers Ii LLC",
+  "Address":"1595 Canarsie Rd.",
+  "City":"Brooklyn",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.027778,40.734722 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New Jersey Transit Rail Operations",
+  "Address":"Railroad Passenger Terminal",
+  "City":"Hoboken",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.094833,40.658139 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"City Of Bayonne Nj",
+  "Address":"Municipal Yard",
+  "City":"Hook Rd. ,Bayonne",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.815556,40.654444 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New York SMSA LP (Verizon)",
+  "Address":"Japan Airlines Building 151",
+  "City":"Jamaica",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.801583,40.665611 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Northrop Grumman Information Technology",
+  "Address":"Van Wyck Expy Btw S. Conduit Ave. & Nassau Expwy",
+  "City":"Jamaica",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.787583,40.703944 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Cellco Partnership (Verizon)",
+  "Address":"170-07 Liberty Ave.",
+  "City":"Jamaica",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.787222,40.7125 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Pastoral Communications",
+  "Address":"175-20 Wexford Terrace",
+  "City":"Jamaica",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.784167,40.664722 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Crown Atlantic Company LLC",
+  "Address":"154-09 146th Ave.",
+  "City":"Jamaica",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.768889,40.682778 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New York SMSA LP (Verizon)",
+  "Address":"122-20 Merrick Blvd.",
+  "City":"Jamaica",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.766111,40.675556 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Rochdale Village Inc.",
+  "Address":"169-65 137th Ave.",
+  "City":"Jamaica",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.760528,40.679972 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Sba 2012 Tc Assets LLC",
+  "Address":"131-15 Merrick Blvd.",
+  "City":"Jamaica",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.099139,40.706639 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Sba 2012 Tc Assets LLC",
+  "Address":"430 Danforth Ave.",
+  "City":"Jersey City",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.086944,40.7325 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"Vertical Real Estate Management LLC",
+  "Address":"1000\\ N Int Truck 1 & 9 & Duncan Ave.",
+  "City":"Jersey City",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.084222,40.706778 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"207-209 Mlk Dr.  (Nj05589b)",
+  "City":"Jersey City",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.06175,40.748667 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"American Towers Iris 1 LLC",
+  "Address":"10 Quincy St.  (Nj05595b)",
+  "City":"Jersey City",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.134222,40.770444 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"Sba Monarch Towers I LLC",
+  "Address":"590 Belleville Turnpike",
+  "City":"Kearney",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.124056,40.7535 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+  "Address":"New Jersey Turnpike Exit 15w",
+  "City":"Kearny",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.106389,40.744167 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New Jersey Transit Rail Operations",
+  "Address":"Rail Yard 0.5 mi SW Newark & Bellville Tpke",
+  "City":"Kearny",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.105278,40.752778 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Salem Media Of New York LLC",
+  "Address":"Twr 1 - 949 Belleville Turnpike",
+  "City":"Kearny",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.104167,40.752778 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"Salem Media Of New York LLC",
+  "Address":"Twr 1 - 949 Belleville Turnpike",
+  "City":"Kearny",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.104167,40.752778 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Salem Media Of New York LLC",
+  "Address":"Twr 2 - 949 Belleville Turnpike",
+  "City":"Kearny",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.104167,40.752778 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Salem Media Of New York LLC",
+  "Address":"Twr 3 - 949 Belleville Turnpike",
+  "City":"Kearny",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.103889,40.752778 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Salem Media Of New York LLC",
+  "Address":"Twr 2 - 949 Belleville Turnpike",
+  "City":"Kearny",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.102806,40.748472 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"Sba 2012 Tc Assets LLC",
+  "Address":"1000 Belleville Turnpike",
+  "City":"Kearny",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.1025,40.7525 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Salem Media Of New York LLC",
+  "Address":"Twr 3 - 949 Belleville Turnpike",
+  "City":"Kearny",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.931222,40.738972 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New York City Fire Department DBA Bureau Of Fire Communications",
+  "Address":"48-67 34th St.",
+  "City":"Long Island City",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.987222,40.756333 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"3 Times Square Associates LLC",
+  "Address":"3 Times Square",
+  "City":"Manhattan",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.967917,40.752556 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"North American Mobile Systems",
+  "Address":"845 United Nations Plaza",
+  "City":"Manhattan",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.9175,40.716389 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"Radio Disney New York LLC",
+  "Address":"Rear Of 4900 Grand Ave.",
+  "City":"Maspeth",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.917361,40.716778 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Radio Disney New York LLC",
+  "Address":"Rear Of 4900 Grand Ave.",
+  "City":"Maspeth",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.917361,40.716778 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Radio Disney New York LLC",
+  "Address":"Rear Of 4900 Grand Ave.",
+  "City":"Maspeth",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.917361,40.716778 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Radio Disney New York LLC",
+  "Address":"Rear Of 4900 Grand Ave.",
+  "City":"Maspeth",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.917361,40.716778 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"Radio Disney New York LLC",
+  "Address":"Rear Of 4900 Grand Ave.",
+  "City":"Maspeth",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.917222,40.716667 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Radio Disney New York LLC",
+  "Address":"Rear Of 4900 Grand Ave.",
+  "City":"Maspeth",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.917222,40.716111 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Radio Disney New York LLC",
+  "Address":"Rear Of 4900 Grand Ave.",
+  "City":"Maspeth",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.916944,40.716944 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Radio Disney New York LLC",
+  "Address":"Rear Of 4900 Grand Ave.",
+  "City":"Maspeth",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.896667,40.715111 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Northrop Grumman Information Technology Inc.",
+  "Address":"61-40 Mt. Olivet Crescent",
+  "City":"Middle Village",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.873389,40.707111 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Spectrasite Communications LLC. Through American Towers LLC.",
+  "Address":"78-16 Cooper Ave. (307193)",
+  "City":"Middle Village",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.009028,40.702889 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New Water St. Corp.",
+  "Address":"55 Water St.",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.008889,40.7175 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Verestar Inc. (Debtor-in-possession)",
+  "Address":"60 Hudson St.",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.007111,40.742389 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"450 West 5th St. (Ny01429f)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.006139,40.719944 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"250 West Broadway (Ny01478a)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.005528,40.710889 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Fc Beekman Associates LLC",
+  "Address":"8 Spruce St.",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.004806,40.720056 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"32 AA Associates LLC   C/O Rudin Management Company Inc.",
+  "Address":"32 Ave. Of The Americas  (West Tower)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.004806,40.720056 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"32 AA Associates LLC   C/O Rudin Management Company Inc.",
+  "Address":"32 Ave. Of The Americas    (East Tower)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.000556,40.72325 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"72-76- Greene St. (Ny01853c)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.998694,40.753306 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Educational Broadcasting Corp.",
+  "Address":"450 West 33rd St.",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.993028,40.748444 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"352 7th Ave.  (Ny01867b)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.99175,40.737917 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"101 5th Ave. (Ny01837c)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.990944,40.767222 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"AT&T Corp. (AT&T)",
+  "Address":"( New York 7)  811 Tenth Ave.",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.990111,40.756028 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"First New York Management",
+  "Address":"620 Eighth Ave.",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.989528,40.767194 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"814 10th Ave.  (Nyc) (Ny01854c)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.989222,40.761 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"330 West 47th St.  (Ny01988i)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.98625,40.756222 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"4 Ts II LLC",
+  "Address":"4 Times Square",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.986111,40.755028 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"1460 Broadway  (Ny01273c)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.986111,40.757778 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Repeater Communications Corp. Of Ca",
+  "Address":"1515 Broadway Ave.",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.984778,40.751583 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"42 West 38th St. (Ny01521a)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.984417,40.719806 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"40 Clinton St.  (Ny01879c)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.984222,40.737861 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"39 Gramercy Park (Ny01845b)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.981,40.779 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"170 West 73rd St. (Ny01841a)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.978111,40.725528 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"145 Ave. C  (Ny01846a)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.976083,40.755361 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"250 Park Ave.  (Ny01533h)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.975444,40.718222 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"605 Fdr Dr. (Ny01904d)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.975417,40.751778 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"Able Bus Co.",
+  "Address":"405 Lexington Ave.",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.974722,40.750833 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Lexington Ave. And 42nd St. Corp.",
+  "Address":"122 E 42nd St.",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.973,40.741333 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"522 First Ave. (Ny02789a)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.968056,40.761722 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"731 Commercial LLC C/O Vornado Realty Trust",
+  "Address":"731 Lexington Ave.",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.965167,40.771306 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"30 East 72nd St. (Ny01873a)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.958028,40.681361 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"1078 Fulton St. (Bk04119c)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.95375,40.667611 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"1087 Carroll St.  (Bk04125b)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.953444,40.76625 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"1334 York Ave.  (Ny01860d)",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.925417,40.690361 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New Cingular Wireless Services Inc. (AT&T)",
+  "Address":"832 Lexington Ave.",
+  "City":"New York",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.985833,40.748333 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"Empire State Building Co.",
+  "Address":"350 Fifth Ave.",
+  "City":"New York City",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.167167,40.679861 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Itt",
+  "Address":"Port Of Newark",
+  "City":"Newark",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.166111,40.734444 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Subcarrier Communications Inc.",
+  "Address":"Gateway 1 New Jersey",
+  "City":"Newark",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.158361,40.709778 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+  "Address":"50 Port St.",
+  "City":"Newark",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.157528,40.710083 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Stc Five LLC (Sprint)",
+  "Address":"20-36 Frontage Rd.",
+  "City":"Newark",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.154167,40.6975 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Itt",
+  "Address":"Newark Airport",
+  "City":"Newark",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.052917,40.776556 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New York Am Radio LLC",
+  "Address":"Wepn T2(sw Njtp Interchange 16 & 18 Tollgate",
+  "City":"North Bergen",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.051944,40.776667 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"New York Am Radio LLC",
+  "Address":"Wepn T1(c Njtp Interchange 16 & 18 Tollgate",
+  "City":"North Bergen",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.051861,40.776778 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New York Am Radio LLC",
+  "Address":"Wepn T1(c Njtp Interchange 16 & 18 Tollgate",
+  "City":"North Bergen",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.051861,40.776778 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New York Am Radio LLC",
+  "Address":"Wepn T2(sw Njtp Interchange 16 & 18 Tollgate",
+  "City":"North Bergen",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.051861,40.776778 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New York Am Radio LLC",
+  "Address":"Wepn T3(ne Njtp Interchange 16 & 18 Tollgate",
+  "City":"North Bergen",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.050694,40.777111 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New York Am Radio LLC",
+  "Address":"Wepn T3(ne Njtp Interchange 16 & 18 Tollgate",
+  "City":"North Bergen",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.048139,40.758667 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"508-510 Grand Ave.  (Nj05072c)",
+  "City":"North Bergen",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.839167,40.679444 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Lefkowitz Herbert  DBA =  Decorative Showcase Co.",
+  "Address":"100-02 Rockaway Blvd.",
+  "City":"Ozone Park",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.805111,40.678917 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Stc Five LLC (Sprint)",
+  "Address":"16th Ave. Van Wyck Service Rd.  Ny05xc612",
+  "City":"Ozone Park",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.1345,40.699528 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"Intersection Of Port St. & Navy St. (Nj05423f)",
+  "City":"Port Newark",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.918944,40.734972 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"47-10 Laurel Hill (Bq06239a)",
+  "City":"Queens",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.891694,40.730722 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"T-Mobile Northeast LLC (T-Mobile)",
+  "Address":"53-20 72nd Place  (Bq06177a)",
+  "City":"Queens",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.768778,40.662806 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Sba Monarch Towers Ii LLC",
+  "Address":"146-10 Guy R. Brewer Blvd.  (Bq06004a)",
+  "City":"Queens",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.150667,40.637944 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Sba Monarch Towers Ii LLC",
+  "Address":"Richmond Terr 2ny35168",
+  "City":"Saten Island",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.819028,40.676972 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+  "Address":"115-01 Lefferts Blvd.",
+  "City":"South Ozone Park",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.117222,40.619444 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New York City Fire Department DBA Bureau Of Fire Communications",
+  "Address":"65 Slosson Ave.",
+  "City":"Staten Island",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.114444,40.5975 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"Archdiocese Of New York Department Of Education  DBA =  Instructional Television",
+  "Address":"Todt Hill Rd. Saint Francis Seminary",
+  "City":"Staten Island",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.109444,40.601389 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"High Point Enterprises",
+  "Address":"10 Highpoint Rd.",
+  "City":"Staten Island",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.1085,40.601361 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Pinnacle Towers LLC",
+  "Address":"140 Merrick Ave.",
+  "City":"Staten Island",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -74.028611,40.761139 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"Hudson Troy Towers Apt. Corp.",
+  "Address":"380 Mountain Rd.",
+  "City":"Union City",
+  "State":"NJ"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.854278,40.698694 ]
+    },
+  "properties": {
+  "Status":"Active",
+  "Company":"New York City Fire Department DBA Bureau Of Fire Communications",
+  "Address":"83-88 Woodhaven Blvd.",
+  "City":"Woodhaven",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.910556,40.751667 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"Rcn Telecom Services Of New York LP",
+  "Address":"33 16 Woodside Ave.",
+  "City":"Woodside",
+  "State":"NY"
+    }
+  },
+  {
+  "type":"Feature",
+  "geometry": {
+     "type":"Point",
+     "coordinates":  [ -73.903778,40.764639 ]
+    },
+  "properties": {
+  "Status":"broken",
+  "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+  "Address":"49-01 25th Ave.",
+  "City":"Woodside",
+  "State":"NY"
+    }
+  },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.078972,37.425222 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Stc Five LLC (Sprint)",
+     "Address":"N. Shoreline Blvd.",
+     "City":"Mountain View",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.076667,37.413889 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Cmt Partnership  DBA =  Cellular One",
+     "Address":"1280 Lavenida",
+     "City":"Mountain View",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.076528,37.41275 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Sprint Spectrum LP. (Sprint)",
+     "Address":"1275 La Avenida Ave.    (Sf56xc568c)",
+     "City":"Pastoria",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.076472,37.409556 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"GTE Mobilnet Of California LP (Verizon)",
+     "Address":"1062 Linda Vista Ave. (61124408 / Ensite #12212)",
+     "City":"Mountain View",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.0755,37.427722 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"GTE Mobilnet Of California LP (Verizon)",
+     "Address":"NE C/O N Shoreline Blvd. & Crittenden",
+     "City":"Mountain View",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.075361,37.414278 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Spectrasite Communications LLC. Through American Towers LLC.",
+     "Address":"281280 L Avenida Ave.  (Moffett Field #300891)",
+     "City":"Mountain View",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.075278,37.326667 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Gas & Electric Co.",
+     "Address":"On Permanente Rd.",
+     "City":"Monta Vista",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.075111,37.414167 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"1280 Lavenida Ave.",
+     "City":"Mountain View",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.074028,37.363444 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"T-Mobile West LLC (T-Mobile)",
+     "Address":"Lois St. Between 755-781 (Sf14135)",
+     "City":"Sunnyvale",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.069167,37.405556 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Stc Five LLC (Sprint)",
+     "Address":"750 Leong Dr.",
+     "City":"Mountain View",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.065806,37.376333 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"T-Mobile West LLC (T-Mobile)",
+     "Address":"700 El Camino Real (Sf14368)",
+     "City":"Mountain View",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.065306,37.388389 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"160 South Whisman Rd.",
+     "City":"Mountain View",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.064139,37.360306 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"12990 Bryan St.",
+     "City":"Mountain View",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.059972,37.352722 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Crown Castle Gt Co. LLC",
+     "Address":"1291 S Bernardo",
+     "City":"Sunnyvale",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.054944,37.4025 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"644 National Ave.",
+     "City":"Mountain View",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.054694,37.390722 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Crown Castle Gt Co. LLC",
+     "Address":"364 Ferguson Dr.",
+     "City":"Mountain View",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.054361,37.385833 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Sba 2012 Tc Assets LLC",
+     "Address":"769 E Evelyn Ave.",
+     "City":"Mountain View",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.052722,37.369306 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Gas And Electric Co.",
+     "Address":"Transmission Tower 3/25 757lois Rd.",
+     "City":"Sunnyvale",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.051278,37.397333 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Spectrasite Communications LLC. Through American Towers LLC.",
+     "Address":"380 Logue Ave.   (Mountain View # 301351)",
+     "City":"Mountain View",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.0505,37.402194 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"T-Mobile West LLC (T-Mobile)",
+     "Address":"625 Ellis St. (Sf04617a)",
+     "City":"Mountain View",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.037778,37.401111 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"State Of California",
+     "Address":"Tirs Stn Hy 101 Nr Hy 237",
+     "City":"Sunnyvale",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.036361,37.387389 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Crown Castle Gt Co. LLC",
+     "Address":"375 Pastoria Ave.",
+     "City":"Sunnyvale",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.033944,37.354278 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Sba 2012 Tc Assets LLC",
+     "Address":"1282 Sunnyvale-saratoga Rd. Fremont Uhsd Light",
+     "City":"Sunnyvale",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.031972,37.414111 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"American Towers LLC.",
+     "Address":"Near H St. & Lockheed Martin Way",
+     "City":"Sunnyvale",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.030194,37.400833 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"919 Hamlin Ct.",
+     "City":"Sunnyvale",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.029444,37.407778 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific & Eastern Digital Transmission Service",
+     "Address":"111 Lockheed Way",
+     "City":"Sunnyvale",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.026,37.407361 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Bell Telephone Co. D/B/A AT&T California (AT&T)",
+     "Address":"1140 North  Mathilda  Ave.",
+     "City":"Sunnyvale",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.024667,37.408361 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Crown Castle Gt Co. LLC",
+     "Address":"1184 N Mathilda Ave.",
+     "City":"Sunnyvale",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.020806,37.363444 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Gas And Electric Co.",
+     "Address":"704 Daffodil Ct.",
+     "City":"Sunnyvale",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.015028,37.407056 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"1225 Innsbruck Dr.",
+     "City":"Sunnyvale",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.013556,37.415167 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Stc Five LLC (Sprint)",
+     "Address":"1391 Geneva Dr. / Fs04xc134",
+     "City":"Sunnyvale",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.008972,37.379111 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"T-Mobile West LLC (T-Mobile)",
+     "Address":"221 Commercial St. (Sf54275b)",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.008944,37.317528 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Sba 2012 Tc Assets LLC",
+     "Address":"10100 Finch Ave. High School",
+     "City":"Cupertino",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.0025,37.325194 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"200 Lawrence Expressway",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -122.002167,37.325111 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Sba 2012 Tc Assets LLC",
+     "Address":"198 Lawrence Expressway",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.995611,37.358528 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Sba Monarch Towers Ii LLC",
+     "Address":"St Lawrence Academy 2ca32706",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.994667,37.336333 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Sba 2012 Tc Assets LLC",
+     "Address":"777 Lawrence Expressway",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.991861,37.391 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"1217 Wildwood Ave.",
+     "City":"Sunnyvale",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.986083,37.371111 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Towers LLC",
+     "Address":"111 Uranium Rd.",
+     "City":"Sunnyvale",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.984167,37.256111 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Santa Clara County Of",
+     "Address":"400 More Ave.",
+     "City":"Los Gatos",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.964194,37.383528 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"2201 Lauralwood Rd.",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.963889,37.326111 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"T-Mobile West LLC (T-Mobile)",
+     "Address":"400 North Saratoga Ave.  (Sf24660a)",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.958944,37.424528 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"121 Nortech Pkwy.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.958833,37.366028 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Santa Clara City Of",
+     "Address":"1990 Walsh Ave.",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.95725,37.375583 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Bell Telephone Co. D/B/A AT&T California (AT&T)",
+     "Address":"1700 Space Park Dr.",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.955806,37.378139 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"GTE Mobilnet Of California LP (Verizon)",
+     "Address":"1530 Arbuckle Ct.",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.952833,37.367056 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"1051 Martin Ave.",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.951,37.286389 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"2041 Winchester Blvd.",
+     "City":"Campbell",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.950583,37.333583 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"T-Mobile West Tower LLC (T-Mobile)",
+     "Address":"400 North Winchester (Sf24380d)",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.948194,37.362556 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Stc Five LLC (Sprint)",
+     "Address":"2265 Lafayette St.",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.948056,37.341667 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Crown Castle Gt Co. LLC",
+     "Address":"490 Lincoln Ave.",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.945472,37.36925 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Union Pacific Railroad Co.",
+     "Address":"2.1 mi N Of",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.945194,37.348861 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Santa Clara County Of",
+     "Address":"1095 Homestead Rd.",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.944806,37.316639 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Crown Castle Gt Co. LLC",
+     "Address":"2995 Moorpark Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.94225,37.357111 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Union Pacific Railroad Co.",
+     "Address":"Coast  1.5 mi NE Of",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.941944,37.356667 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Cctm1 LLC",
+     "Address":"1698 De La Cruz Blvd.",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.941333,37.356111 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Services Inc. (AT&T)",
+     "Address":"351 Brokaw Rd.",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.941111,37.326944 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"T-Mobile West LLC (T-Mobile)",
+     "Address":"2855 Stevens Creek Blvd.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.940833,37.316667 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"California State Of",
+     "Address":"Tirs Stn Jct Hwy 280 & 17",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.940222,37.347056 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Santa Clara University",
+     "Address":"Swig Hall Intersection",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.94,37.365278 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"GTE Mobilnet Of California LP (Verizon)",
+     "Address":"390 Martin Ave.",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.94,37.310444 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Sba 2012 Tc Assets LLC",
+     "Address":"895 Thornton Way",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.938944,37.381333 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Gas And Electric Co.",
+     "Address":"Transmission Tower 11/75  380 Laurelwood Rd.",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.937417,37.3175 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"American Towers LLC.",
+     "Address":"( South Bay Office-gld-8504)",
+     "City":"Campbell",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.937028,37.354111 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Union Pacific Railroad Co.",
+     "Address":"335 E Brokaw Rd.",
+     "City":"Santa Clara",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.934944,37.288528 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Campbell City Of",
+     "Address":"1901 South Bascom Ave.",
+     "City":"Campbell",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.931972,37.297583 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Gas And Electric Co.",
+     "Address":"1469 South Bascom Ave.",
+     "City":"Campbell",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.93175,37.324028 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Stc Five LLC (Sprint)",
+     "Address":"Corner Of No. Bascom Ave. And San Carlos St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.926222,37.304056 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"T-Mobile West LLC (T-Mobile)",
+     "Address":"1224 Del Mar Ave. (Sf15352d)",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.926028,37.304056 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"T-Mobile West Tower LLC (T-Mobile)",
+     "Address":"1224 Del Mar Ave.  (Sf15352)",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.925806,37.331722 ]
+      },
+     "properties": {
+     "Status":"broken",
+     "Company":"T-Mobile West Tower LLC (T-Mobile)",
+     "Address":"604 Dana Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.924944,37.314556 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"2100 Moorpark Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.924667,37.348806 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Sprint Communications Company LP (Sprint)",
+     "Address":"801 Newhall St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.924444,37.348889 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Sprint Communications Company LP (Sprint)",
+     "Address":"801 Newhall St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.923111,37.382583 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Kntv License LLC",
+     "Address":"2450 N. First St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.923,37.346333 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Crown Castle Gt Co. LLC",
+     "Address":"1070 Elm St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.917694,37.390583 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"535 Brennan St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.917639,37.317556 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"1539 Parkmoor Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.9175,37.390278 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Cmt Partnership  DBA =  Cellular One",
+     "Address":"575 Brennen St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.916333,37.316528 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Crown Castle Gt Co. LLC",
+     "Address":"1510-1540 Parkmore Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.913861,37.324444 ]
+      },
+     "properties": {
+     "Status":"broken",
+     "Company":"T-Mobile West LLC (T-Mobile)",
+     "Address":"259 Meridian Ave. (Sf24664e)",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.912472,37.3495 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Santa Clara County Of",
+     "Address":"935 Ruff Dr.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.908611,37.336389 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Gas & Electric Co.",
+     "Address":"Cinnabar Service Center 308 Stockton Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.908139,37.349917 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Santa Clara County Of",
+     "Address":"935 Ruff Dr.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.908056,37.338861 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"San Mateo County Transit District - Pcjpb",
+     "Address":"585 Lenzen Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.907194,37.350667 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Santa Clara County Of",
+     "Address":"190 West Hedding St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.907167,37.359111 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"California State Of",
+     "Address":"Shoulder Of Hy 880 Near 1st St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.907139,37.437833 ]
+      },
+     "properties": {
+     "Status":"broken",
+     "Company":"Sba 2012 Tc Assets LLC",
+     "Address":"420 Railroad Ct.",
+     "City":"Milpitas",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.906528,37.356639 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Sba 2012 Tc Assets LLC",
+     "Address":"101 West Younger St. V.T.A. Train Yard",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.906,37.355306 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Santa Clara County Of",
+     "Address":"55 West Younger",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.905472,37.318778 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Services Inc. (AT&T)",
+     "Address":"550 Sunol St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.904583,37.420333 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Capital Telecom",
+     "Address":"777 S. Main St.",
+     "City":"Milpitas",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.903333,37.319722 ]
+      },
+     "properties": {
+     "Status":"broken",
+     "Company":"Pacific Gas And Electric Co.",
+     "Address":"Transmission Tower 3/33 806 W. Home St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.902667,37.328639 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Gas And Electric Co.",
+     "Address":"South Of Cahill & San Fernando",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.902583,37.325861 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Gas And Electric Co.",
+     "Address":"W. San Carlos Near Hwy 280",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.902444,37.321778 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Gas And Electric Co.",
+     "Address":"791 Auzerais Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.901833,37.34125 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Gas And Electric Co.",
+     "Address":"Santa Teresa St. & Coleman Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.901111,37.341389 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Gas & Electric Co.",
+     "Address":"San Jose Sta B 451 Coleman Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.900278,37.348889 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Western States Teleport",
+     "Address":"675 N First St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.896389,37.334167 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific & Eastern Digital Transmission Service",
+     "Address":"333 W Santa Clara St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.895722,37.336667 ]
+      },
+     "properties": {
+     "Status":"broken",
+     "Company":"Santa Clara County Of",
+     "Address":"115 Terraine St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.894667,37.332722 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Mci Communications (Verizon)",
+     "Address":"55 Almaden Blvd.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.893556,37.338389 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Santa Clara County Of",
+     "Address":"191 North First St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.893056,37.332778 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Bell Telephone Co. D/B/A AT&T California (AT&T)",
+     "Address":"95 Almaden Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.892806,37.365889 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Sba 2012 Tc Assets LLC",
+     "Address":"1265 Oakland Rd.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.8925,37.3325 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Gas & Electric Co.",
+     "Address":"111 Almaden Blvd.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.892083,37.413472 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"1250 Piper Dr.",
+     "City":"Milpitas",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.89075,37.350222 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Spectrasite Communications LLC. Through American Towers LLC.",
+     "Address":"557 Mariani Ln.  (#274418)",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.890722,37.350222 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"T-Mobile West LLC (T-Mobile)",
+     "Address":"320 Jackson St.  (Sf14995c)",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.889361,37.291472 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"2180 Radio Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.886778,37.433972 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"115 Dempsey Rd.",
+     "City":"Milpitas",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.883333,37.362472 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Crown Castle Gt Co. LLC",
+     "Address":"855 Mabury Rd.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.878056,37.305833 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"419 Land St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.874778,37.261806 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"4700 Almaden Expressway",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.873111,37.3575 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Multicultural Radio Broadcasting Inc.",
+     "Address":"501 Wooster Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.872722,37.358111 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Multicultural Radio Broadcasting Inc.",
+     "Address":"501 Wooster Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.872528,37.357667 ]
+      },
+     "properties": {
+     "Status":"broken",
+     "Company":"Multicultural Radio Broadcasting Inc.",
+     "Address":"501 Wooster Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.872444,37.357806 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Multicultural Radio Broadcasting Inc.",
+     "Address":"501 Wooster Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.872444,37.357806 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Multicultural Radio Broadcasting Inc.",
+     "Address":"501 Wooster Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.872444,37.357806 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Multicultural Radio Broadcasting Inc.",
+     "Address":"501 Wooster Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.872444,37.357806 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Multicultural Radio Broadcasting Inc.",
+     "Address":"501 Wooster Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.871778,37.358 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Multicultural Radio Broadcasting Inc.",
+     "Address":"501 Wooster Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.868583,37.389083 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Gas And Electric Co.",
+     "Address":"Transmission Tower 2/19  2265 Sierra Rd.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.867778,37.329167 ]
+      },
+     "properties": {
+     "Status":"broken",
+     "Company":"Ymf Media California Licensee LLC",
+     "Address":"Twr 1 - ",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.8675,37.329444 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Ymf Media California Licensee LLC",
+     "Address":"Twr 2 - ",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.866944,37.33 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Ymf Media California Licensee LLC",
+     "Address":"Twr 3 - ",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.866667,37.330278 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Ymf Media California Licensee LLC",
+     "Address":"Twr 4 - ",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.866111,37.329722 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Ymf Media California Licensee LLC",
+     "Address":"Twr 4 - ",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.866111,37.329722 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Ymf Media California Licensee LLC",
+     "Address":"Twr 2 - ",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.866111,37.329722 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Ymf Media California Licensee LLC",
+     "Address":"Twr 3 - ",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.866111,37.329722 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Ymf Media California Licensee LLC",
+     "Address":"Twr 1 - ",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.864722,37.288889 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Santa Clara County Of",
+     "Address":"2700 Carol Dr.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.861194,37.382139 ]
+      },
+     "properties": {
+     "Status":"broken",
+     "Company":"Pacific Gas And Electric Co.",
+     "Address":"Trasnmission Tower 11/79  Hwy 680  Berryessa Rd. Near Dahlia Ct.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.859444,37.380528 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Gas And Electric Co.",
+     "Address":"Hwy 680  0.3 mi SE Of Berryessa Rd.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.857444,37.329111 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Empire Broadcasting Corp.",
+     "Address":"750 Story Rd.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.857444,37.329111 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Empire Broadcasting Corp.",
+     "Address":"750 Story Rd.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.857444,37.329111 ]
+      },
+     "properties": {
+     "Status":"broken",
+     "Company":"Empire Broadcasting Corp.",
+     "Address":"750 Story Rd.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.856889,37.328833 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Empire Broadcasting Corp.",
+     "Address":"750 Story Rd.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.855694,37.376917 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Pacific Gas And Electric Co.",
+     "Address":"Transmission Twr 3/026 Hwy 680 & Mabury Rd.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.855528,37.306833 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"2440 S 10th St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.855139,37.256083 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"1622 Gundabert Ln.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.854306,37.375528 ]
+      },
+     "properties": {
+     "Status":"broken",
+     "Company":"Pacific Gas And Electric Co.",
+     "Address":"Transmission Tower 3/27  200 East Santa Clara St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.851444,37.417528 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"Sba 2012 Tc Assets LLC",
+     "Address":"10000 Old Piedmont Rd.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.846639,37.298889 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"344 Tully Rd.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.845222,37.391472 ]
+      },
+     "properties": {
+     "Status":"broken",
+     "Company":"Sba 2012 Tc Assets LLC",
+     "Address":"935 Piedmont Rd.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.843472,37.318222 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"2072 Lucretia Ave.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.842667,37.280028 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"3616 Hillcap St.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.837,37.300333 ]
+      },
+     "properties": {
+     "Status":"broken",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"2981 Lone Bluff Way",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.835556,37.3445 ]
+      },
+     "properties": {
+     "Status":"Active",
+     "Company":"New Cingular Wireless Pcs LLC (AT&T)",
+     "Address":"2110 Story Rd.",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+    {
+     "type":"Feature",
+     "geometry": {
+        "type":"Point",
+        "coordinates":  [ -121.834417,37.345417 ]
+      },
+     "properties": {
+     "Status":"broken",
+     "Company":"T-Mobile West LLC (T-Mobile)",
+     "Address":"2180 Story Rd. (Sf44339b)",
+     "City":"San Jose",
+     "State":"CA"
+      }
+    },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.635556,32.919444 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sbc Tower Holdings LLC (AT&amp;T)",
+    "Address":"608 N. 5th St.",
+    "City":"Garland",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.611833,32.921028 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sba Monarch Towers Ii LLC",
+    "Address":"1448 Castle Dr.",
+    "City":"Garland",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.964167,32.921111 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Irving City Of",
+    "Address":"8501 Hackberry Rd.",
+    "City":"Irving",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.923306,32.922028 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"1641a Keenan Bridge",
+    "City":"Farmers Branch",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.757194,32.922722 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"8500 Lbj Freeway Frontage Rd.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.882972,32.922972 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"12895 Josey Ln.",
+    "City":"Farmers Branch",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.722444,32.924083 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Crown Castle Tower 05 LLC",
+    "Address":"9686-a Walnut St.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.831333,32.927583 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"4515 Lbj Freeway",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.8225,32.928194 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Occidental Tower Corp.",
+    "Address":"5005 L.B.J. Freeway",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.744722,32.929444 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Marbea Enterprises Inc.",
+    "Address":"13550 Floyd Circle",
+    "City":"Richardson",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.747222,32.93 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Texas Instruments Incorporated",
+    "Address":"13542 N. Central Expressway",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.821583,32.930167 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Nextel Of Texas Inc.",
+    "Address":"Addison",
+    "City":"Addison",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.627361,32.93025 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Crown Communication LLC",
+    "Address":"322 Buckingham Rd.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.805639,32.932 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"5836 Alpha Rd.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.904444,32.933056 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Global Tower LLC",
+    "Address":"13850 Diplomat Dr.",
+    "City":"Farmers Branch",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.748,32.933361 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"13606 Floyd Rd.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.83125,32.936528 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"13835 A Welch Rd.",
+    "City":"Farmers Branch",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.822389,32.939056 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Centura Tower Ltd",
+    "Address":"14185 Dallas Pkwy.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.855028,32.939333 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sbc Tower Holdings LLC (AT&amp;T)",
+    "Address":"14326 Marsh Ln.",
+    "City":"Addison",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.735861,32.943861 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Pinnacle Towers LLC",
+    "Address":"605 S.Sherman St.",
+    "City":"Richardson",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.940139,32.944028 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Susquehanna Radio Corp.",
+    "Address":"900 East Ledbetter Rd.",
+    "City":"Coppell",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.940139,32.944556 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Susquehanna Radio Corp.",
+    "Address":"900 East Ledbetter Rd.",
+    "City":"Coppell",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.940722,32.944583 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Susquehanna Radio Corp.",
+    "Address":"900 East Ledbetter Rd.",
+    "City":"Coppell",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.940556,32.944833 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Susquehanna Radio Corp.",
+    "Address":"900 East Ledbetter Rd.",
+    "City":"Coppell",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.940556,32.944833 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Susquehanna Radio Corp.",
+    "Address":"900 East Ledbetter Rd.",
+    "City":"Coppell",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.940556,32.944833 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Susquehanna Radio Corp.",
+    "Address":"900 East Ledbetter Rd.",
+    "City":"Coppell",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.940556,32.944833 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Susquehanna Radio Corp.",
+    "Address":"900 East Ledbetter Rd.",
+    "City":"Coppell",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.940139,32.945083 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Susquehanna Radio Corp.",
+    "Address":"900 East Ledbetter Rd.",
+    "City":"Coppell",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.839139,32.947028 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"T-Mobile West LLC (T-Mobile)",
+    "Address":"14661 Midway Rd.",
+    "City":"Addison",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.818222,32.947833 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sbc Tower Holdings LLC (AT&amp;T)",
+    "Address":"5221 Celestial Rd.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.909889,32.950528 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"1422 W Third Ave.",
+    "City":"Carrollton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.651389,32.950833 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"GTE Southwest DBA Verizon (Verizon)",
+    "Address":"3618 North Star Rd.",
+    "City":"Garland",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.800722,32.950861 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"6164 Beltline Rd.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.857167,32.951167 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"T-Mobile West LLC (T-Mobile)",
+    "Address":"14805 Marsh Ln.  (Da01182b)",
+    "City":"Northeast",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.857833,32.952389 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"14942 Venture St.",
+    "City":"Farmers Branch",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.914972,32.954083 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Patriot Communications Services Inc.",
+    "Address":"1684 College Ave.",
+    "City":"Carrollton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.707778,32.954278 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Mci Communications (Verizon)",
+    "Address":"400 International Pkwy.",
+    "City":"Richardson",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.867694,32.955639 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sba 2012 Tc Assets LLC",
+    "Address":"1700 Columbian Club Dr.",
+    "City":"Carrollton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.871667,32.959278 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Halliburton Energy Services Inc.",
+    "Address":"2601 Beltline At  Webbs Chapel Rd.",
+    "City":"Carrollton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.767361,32.959556 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Services Inc. (AT&amp;T)",
+    "Address":"2490 Promenade N",
+    "City":"Richardson",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.820556,32.963056 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Beal Bank Center Management",
+    "Address":"15660 N Dallas Pkwy.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.820556,32.963611 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Beal Bank Center Management",
+    "Address":"15770 N Dallas Pkwy.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.829722,32.966306 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Town Of Addison",
+    "Address":"4799 Airport Pkwy",
+    "City":"Addison",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.803778,32.9665 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"16010 Preston Rd.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.9205,32.966972 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"1725 Sandy Lake Rd.",
+    "City":"Carrollton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.829833,32.967083 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Town Of Addison",
+    "Address":"4799 Airport Pkwy",
+    "City":"Addison",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.639111,32.9685 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sbc Tower Holdings LLC (AT&amp;T)",
+    "Address":"5840 North Garland Ave.",
+    "City":"Garland",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.702972,32.971444 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Crown Communication LLC",
+    "Address":"1201 Kas 2 Dr.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.858028,32.975694 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"T-Mobile West LLC (T-Mobile)",
+    "Address":"2802 Kings Gate Dr.",
+    "City":"Carrollton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.706306,32.978611 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Southwestern Bell Telephone Co. (AT&amp;T)",
+    "Address":"2200 N Greenville Ave.",
+    "City":"Richardson",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.916694,32.98125 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"1225 West Trinity Mills Rd.",
+    "City":"Carrollton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.853333,32.982778 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Stc Five LLC (Sprint)",
+    "Address":"SE Cor Of Marsh Ln. & Trinity Square",
+    "City":"Carrolton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.714167,32.984167 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Cresent Real Estate LP",
+    "Address":"2435 N Central Expy",
+    "City":"Richardson",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.648806,32.984833 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Stc Five LLC (Sprint)",
+    "Address":"2551 Holford Rd.",
+    "City":"Richardson",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.802556,32.985083 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sba 2012 Tc Assets LLC",
+    "Address":"6100 Block Of Mccallum Blvd.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.856278,32.985611 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"2760 Trinity Mills #127b",
+    "City":"Carrollton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.709861,32.988222 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Services Inc. (AT&amp;T)",
+    "Address":"2650 N Central Expwy",
+    "City":"Richardson",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.921667,32.988333 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Marcus Cable Associates LLC",
+    "Address":"1406 Halsey Way",
+    "City":"Carrollton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.853778,32.988833 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Spectrasite Communications LLC. Through American Towers LLC.",
+    "Address":"17504 Marsh Ln.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.83175,32.989278 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"T-Mobile West Tower LLC (T-Mobile)",
+    "Address":"4444 Trinity Mills Rd.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.75,32.989444 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Alliance For Higher Education",
+    "Address":"Rutford And Dr. D",
+    "City":"Richardson",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.936056,32.990167 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sbc Tower Holdings LLC (AT&amp;T)",
+    "Address":"2734 North I-35 East",
+    "City":"Carrollton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.771944,32.991667 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Bellar Communications Co.",
+    "Address":"17800 Dickerson St.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.84225,32.996139 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sbc Tower Holdings LLC (AT&amp;T)",
+    "Address":"18110 Midway Rd. ",
+    "City":"Dallas",
+    "State":"TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.798889,32.997222 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Tower Assets Newco Ii LLC",
+    "Address":"17997 Preston Rd.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.871167,32.997806 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"2527 Frankford Rd.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.565778,32.998194 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sba Monarch Towers I LLC",
+    "Address":"940 Hensley",
+    "City":"Wylie",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.917222,32.999167 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Pinnacle Towers LLC",
+    "Address":"Chambershire Dr.",
+    "City":"Carrollton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.887111,32.999278 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sba 2012 Tc Assets LLC",
+    "Address":"3065 N. Josey Ln.",
+    "City":"Carrollton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.82775,33.001806 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"18530 North Dallas Pkwy.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.827861,33.001889 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Stc Five LLC (Sprint)",
+    "Address":"18530 Dallas Pkwy.    Da13xc506",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.736111,33.004444 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Perot Systems Corp.",
+    "Address":"3000 Dallas-fort Worth Pkwy.",
+    "City":"Dallas-fort Worth",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6875,33.004444 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Oncor License Holdings Company LLC",
+    "Address":"1700 E Plano Pkwy.",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.736111,33.004556 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Psc Management LP",
+    "Address":"2300 West Plano Pkwy. (Collin County)",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.843583,33.005139 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"T-Mobile West LLC (T-Mobile)",
+    "Address":"18615 Midway Rd. (Da1186a)",
+    "City":"Addison",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.787083,33.0115 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sbc Tower Holdings LLC (AT&amp;T)",
+    "Address":"511 Ohio Dr.",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.774444,33.011667 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Plano City Of",
+    "Address":"4200 W Plano Pkwy.",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.781639,33.012333 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Crown Communication LLC",
+    "Address":"600 Fulgham Rd.",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.780444,33.012528 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"American Towers LLC.",
+    "Address":"604 Fulgham Rd. (009092)",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.913972,33.012583 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Services Inc. (AT&amp;T)",
+    "Address":"1024-2 W Rosemead Pkwy",
+    "City":"Carrollton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.887722,33.013028 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Services Inc. (AT&amp;T)",
+    "Address":"3733 N. Josey Ln.",
+    "City":"Carrollton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.942972,33.01375 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Ers Telecom Properties",
+    "Address":"4098 Nazarene Dr.",
+    "City":"Carrollton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.577333,33.014833 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Services Inc. (AT&amp;T)",
+    "Address":"2821 W Fm 544",
+    "City":"Wylie",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.831472,33.01525 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sbc Tower Holdings LLC (AT&amp;T)",
+    "Address":"19551 Dallas Pkwy.",
+    "City":"Dallas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.681417,33.016528 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"T-Mobile West Tower LLC (T-Mobile)",
+    "Address":"1314 Jupiter Rd. (Da01753a)",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.694167,33.016889 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"City Of Plano",
+    "Address":"1300 Ave. N",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.748611,33.020917 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sba Monarch Towers Ii LLC",
+    "Address":"Autobahn 2tx32324",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.766389,33.021389 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Medical Center Of Plano",
+    "Address":"3901 W 15th St.",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.831361,33.026694 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sbc Tower Holdings LLC (AT&amp;T)",
+    "Address":"1907 Dallas N Tollway",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.894917,33.026861 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"1822 Polser Rd.",
+    "City":"Carrollton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.79275,33.030111 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sbc Tower Holdings LLC (AT&amp;T)",
+    "Address":"2412 Preston Rd.",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.575556,33.0325 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Djrd Broadcasting LLC = Kaam 5tn2",
+    "Address":"Twr 2  0.4 mi E Of Fm 1378 On Cr 289",
+    "City":"Wylie",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.574722,33.032778 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Djrd Broadcasting LLC = Kaam 5tn1",
+    "Address":"Twr 1  0.4 mi E Of Fm 1378 On Cr 289",
+    "City":"Wylie",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.575,33.032778 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Djrd Broadcasting LLC = Kaam 5tn3",
+    "Address":"Twr 3  0.4 mi E Of Fm 1378 On Cr 289",
+    "City":"Wylie",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.575,33.032778 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Djrd Broadcasting LLC = Kaam 5tn5",
+    "Address":"Twr 5  0.4 mi E Of Fm 1378 On Cr 289",
+    "City":"Wylie",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.575,33.032778 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Djrd Broadcasting LLC = Kaam 5tn2",
+    "Address":"Twr 2  0.4 mi E Of Fm 1378 On Cr 289",
+    "City":"Wylie",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.575,33.032778 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Djrd Broadcasting LLC = Kaam 5tn1",
+    "Address":"Twr 1  0.4 mi E Of Fm 1378 On Cr 289",
+    "City":"Wylie",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.575,33.032778 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Djrd Broadcasting LLC = Kaam 5tn4",
+    "Address":"Twr 4  0.4 mi E Of Fm 1378 On Cr 289",
+    "City":"Wylie",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.576389,33.033056 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Djrd Broadcasting LLC = Kaam 5tn4",
+    "Address":"Twr 4  0.4 mi E Of Fm 1378 On Cr 289",
+    "City":"Wylie",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.575556,33.033333 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Djrd Broadcasting LLC = Kaam 5tn3",
+    "Address":"Twr 3  0.4 mi E Of Fm 1378 On Cr 289",
+    "City":"Wylie",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.574722,33.033611 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Djrd Broadcasting LLC = Kaam 5tn5",
+    "Address":"Twr 5  0.4 mi E Of Fm 1378 On Cr 289",
+    "City":"Wylie",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.612361,33.035528 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sbc Tower Holdings LLC (AT&amp;T)",
+    "Address":"1101 N Murphy",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.944028,33.038444 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Dallas Broadcasting LLC",
+    "Address":"5.3 Nm West Northwest Of The Air Park Dallas Airport",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.942278,33.038611 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Dallas Broadcasting LLC",
+    "Address":"5.3 Nm West Northwest Of The Air Park Dallas Airport",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.944222,33.038917 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Dallas Broadcasting LLC",
+    "Address":"5.3 Nm West Northwest Of The Air Park Dallas Airport",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.943056,33.039278 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Dallas Broadcasting LLC",
+    "Address":"5.3 Nm West Northwesy Of The Air Park Dallas Airport",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.943056,33.039278 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Dallas Broadcasting LLC",
+    "Address":"5.3 Nm West Northwest Of The Air Park Dallas Airport",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.943056,33.039278 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Dallas Broadcasting LLC",
+    "Address":"5.3 Nm West Northwest Of The Air Park Dallas Airport",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.943056,33.039278 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Dallas Broadcasting LLC",
+    "Address":"5.3 Nm West Northwest Of The Air Park Dallas Airport",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.943056,33.039278 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Dallas Broadcasting LLC",
+    "Address":"5.3 Nm West Northwest Of The Air Park Dallas Airport",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.943056,33.039278 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Dallas Broadcasting LLC",
+    "Address":"5.3 Nm West Northwest Of The Air Park Dallas Airport",
+    "City":"Lewsiville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.94225,33.039417 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Dallas Broadcasting LLC",
+    "Address":"5.3 Nm West Northwesy Of The Air Park Dallas Airport",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.942722,33.039833 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Dallas Broadcasting LLC",
+    "Address":"5.3 Nm West Northwest Of The Air Park Dallas Airport",
+    "City":"Lewsiville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.9475,33.040111 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Bison Media Inc.",
+    "Address":"Off Of State Highway 121",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.94925,33.040472 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Bison Media Inc.",
+    "Address":"Off Of State Highway 121",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.943222,33.040556 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Dallas Broadcasting LLC",
+    "Address":"5.3 Nm West Northwest Of The Air Park Dallas Airport",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.830028,33.040583 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"2803 N Dallas Pkwy.",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.947778,33.040944 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Bison Media Inc.",
+    "Address":"Off Of State Highway 121",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.947778,33.040944 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Bison Media Inc.",
+    "Address":"Off Of State Highway 121",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.947778,33.040944 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Bison Media Inc.",
+    "Address":"Off Of State Highway 121",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.947778,33.040944 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Bison Media Inc.",
+    "Address":"Off Of State Highway 121",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.946611,33.041444 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Bison Media Inc.",
+    "Address":"Off Of State Highway 121",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.949139,33.0415 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Bison Media Inc.",
+    "Address":"Off Of State Highway 121",
+    "City":"Lewisville",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.853472,33.041833 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"4400 Marsh Ln.",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.861667,33.045833 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Crown Communication LLC",
+    "Address":"4912 Doizer Rd.",
+    "City":"Dalllas",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.859667,33.046667 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"City Of Plano",
+    "Address":"4928 Dozier Rd.",
+    "City":"Carrollton",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.605333,33.046861 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"3700 Hogge Rd.",
+    "City":"Parker",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.840694,33.047028 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"3501 Midway Rd.",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.849111,33.055222 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"T-Mobile West LLC (T-Mobile)",
+    "Address":"5911 Arbor Hills Way (Da01459c)",
+    "City":"The Colony",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.587222,33.055917 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sba 2012 Tc Assets LLC",
+    "Address":"7531 E. Parker Rd.",
+    "City":"Allen",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.69975,33.062083 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"City Of Plano",
+    "Address":"435 W. Spring  Creek Pkwy.",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.584167,33.064 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"American Towers LLC.",
+    "Address":"1655 Stinson Rd.  (Lucas #90316)",
+    "City":"Allen",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.913278,33.064778 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Services Inc. (AT&amp;T)",
+    "Address":"2548 Lake Ridge Rd.",
+    "City":"The Colony",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.829944,33.069694 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"City Of Plano",
+    "Address":"6825 Communications Pkwy.",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.853639,33.084111 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"American Towers LLC.",
+    "Address":"4130 Griffin Rd.  (Plano / Eds #4227)",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.628167,33.084944 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"1614 East Bethany Dr.",
+    "City":"Allen",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.800528,33.096222 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"New Cingular Wireless Pcs LLC (AT&amp;T)",
+    "Address":"8700 Preston Rd.",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.739722,33.115278 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Plano City Of",
+    "Address":"Ridgeview Dr. Pump Station",
+    "City":"Plano",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.802944,33.115444 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Sbc Tower Holdings LLC (AT&amp;T)",
+    "Address":"Hwy 289 & Lebanon",
+    "City":"Frisco",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.903333,33.116944 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Spectrasite Communications LLC. Through American Towers LLC.",
+    "Address":"Rr #2 Box 3606  (The Colony #309144)",
+    "City":"Frisco",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.824139,33.136222 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"City Of Frisco Texas",
+    "Address":"7200 Stonebrook Pkwy.",
+    "City":"Frisco",
+    "State":"TX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.822917,33.145611 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "Company":"Stc Five LLC (Sprint)",
+    "Address":"Frisco High School (Da13xc421)",
+    "City":"Frisco",
+    "State":"TX "
+    }
+  }
+]
+}
