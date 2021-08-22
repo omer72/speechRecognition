@@ -172,7 +172,7 @@ class Map extends Component {
     // re-add the geojson so that it filters out subway lines which do not match state.filter
     srv.state.geojsonLayer.addData(srv.geojson);
     srv.setState({filteredTowers:srv.state.geojsonLayer._layers });
-    if (srv.state.geojsonLayer._layers && _.values(srv.state.geojsonLayer._layers).length == 1){
+    if (srv.state.geojsonLayer._layers && _.values(srv.state.geojsonLayer._layers).length === 1){
         let icon = _.values(srv.state.geojsonLayer._layers)[0];
         icon.fireEvent('click');
     }

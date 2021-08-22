@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App.js';
+import Map from './Map.js';
 import './index.css'; // postCSS import of CSS module
 
 ReactDOM.render(
-  <App />,
+  <Map />,
   document.getElementById('root')
 );

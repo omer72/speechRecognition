@@ -15,7 +15,7 @@ class Filter extends Component {
     };
     this.testSpeech = this.testSpeech.bind(this);
   }
-  
+
   testSpeech() {
     var srv = this;
     srv.setState({parshText : 'Listening....'});
@@ -36,23 +36,23 @@ class Filter extends Component {
       console.log('Confidence: ' + event.results[0][0].confidence);
     };
   }
-  
+
   render () {
-    const { lines, filterLines ,filteredTowers} = this.props;
+    const { filterLines ,filteredTowers} = this.props;
     let options = [];
       _.forEach(filteredTowers , function(e, k) {
           options.push(e.feature.properties.Address+' '+e.feature.properties.City);
       });
 
-      return <div className="filterSubwayLines">
+      return <div className="filterRadioTowers">
           <hr/>
           <h3>Nokia Towers</h3>
           <p>Filter by Tower Status</p>
           <select defaultValue="*"
                   type="select"
-                  name="filterlines" style={{"max-width": 200}}
+                  name="filterlines" style={{"maxWidth": 200}}
                   onChange={(e) => filterLines(e)}>
-              {/* We render the select's option elements by maping each of the values of subwayLines array to option elements */}
+              {/* We render the select's option elements by mapping each of the values of subwayLines array to option elements */}
               {
                   options.map((line, i) => {
                       return (
@@ -62,7 +62,7 @@ class Filter extends Component {
               }
           </select>
           <button onClick={this.testSpeech}>Start</button>
-          <text> {this.state.parshText}</text>
+          <label> {this.state.parshText}</label>
 
       </div>;
   }
